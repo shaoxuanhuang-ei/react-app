@@ -11,6 +11,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.13",
     "@types/react-dom": "^19.1.9",
+    "eye-sdk-main-app": "^1.0.0",
     "react": "^19.1.1",
     "react-app-rewired": "^2.2.1",
     "react-dom": "^19.1.1",
